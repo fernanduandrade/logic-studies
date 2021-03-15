@@ -1,0 +1,13 @@
+{
+    "name": "logic-studies",
+    "version": "1.0.0",
+    "repository": "https://github.com/fernanduandrade/logic-studies.git",
+    "author": "fernanduandrade <onanduandrade@gmail.com>",
+    "license": "MIT"
+    "scripts": {
+	"test": "jest"
+    },
+    "devDependencies": {
+	"jest": "^26.6.3"
+    }
+}
