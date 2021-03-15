@@ -1,4 +1,4 @@
-export default dividirArray(array, divisor) {
+const dividirArray = (array, divisor) => {
     let novaArray = array.reduce((acumulador, atualValor, i) => {
 	if(!(i %  divisor)) {
 	    acumulador.push(array.slice(i, i + divisor));
@@ -8,3 +8,5 @@ export default dividirArray(array, divisor) {
 
     return novaArray
 }
+
+module.exports = dividirArray;

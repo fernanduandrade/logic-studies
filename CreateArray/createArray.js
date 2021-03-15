@@ -1,3 +1,3 @@
-export default criarArray(quantidade, valor) {
-    return Array(quantidade).fill(valor);
-}
+const criarArray = (quantidade, valor) => Array(quantidade).fill(valor);
+
+module.exports = criarArray;

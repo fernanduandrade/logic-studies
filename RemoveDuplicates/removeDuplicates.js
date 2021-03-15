@@ -1,3 +1,3 @@
-export default filtrarArray(array) {
-    return array.filter((duplicatos, index) => array.indexOf(duplicatos) === index);
-}
+const filtrarArray = array => array.filter((duplicatos, index) => array.indexOf(duplicatos) === index);
+
+module.exports = filtrarArray;

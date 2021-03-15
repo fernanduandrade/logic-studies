@@ -1,3 +1,3 @@
-export default removerInvalidos(array){
-    return array.filter(element => element);
-}
+const removerInvalidos = array  => array.filter(element => element);
+
+module.exports = removerInvalidos;

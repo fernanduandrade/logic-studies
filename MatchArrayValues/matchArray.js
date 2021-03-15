@@ -1,4 +1,4 @@
-export default matchValores(array1, array2) {
+const matchValores = (array1, array2) => {
     let novaArray = [];
     for (let i = 0; i < array2.length; i++) {
 	for (let z = 0; z < array1.length; z++) {
@@ -10,3 +10,6 @@ export default matchValores(array1, array2) {
 
     return novaArray;
 }
+
+
+module.exports = matchValores;

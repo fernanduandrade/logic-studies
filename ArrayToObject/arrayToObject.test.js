@@ -1,4 +1,4 @@
-import arrayParaObject from './arrayToObject';
+const  arrayParaObject = require('./arrayToObject');
 
 test('Converter uma lista para o tipo Object', () => {
     const dados = [["c",2],["d",4]];

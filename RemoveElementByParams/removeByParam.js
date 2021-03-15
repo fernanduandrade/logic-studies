@@ -1,3 +1,3 @@
-export default removerItens(array, ...valores) {
-    return array.filter(elemento => !valores.includes(elemento));
-}
+const removerItens = (array, ...valores)  => array.filter(elemento => !valores.includes(elemento));
+
+module.exports = removerItens;

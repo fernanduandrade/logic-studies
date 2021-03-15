@@ -1,4 +1,4 @@
-export default compararArray(array1, array2) {
+const compararArray = (array1, array2) => {
     if (array1 === array2) {
 	return true;
     }
@@ -16,3 +16,5 @@ export default compararArray(array1, array2) {
     }
     return true;
 };
+
+module.exports = compararArray;

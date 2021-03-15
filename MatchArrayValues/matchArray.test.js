@@ -1,4 +1,4 @@
-import matchValores from './matchValores';
+const matchValores = require('./matchArray');
 
 test('Criar uma lista com os valores de duas listas que dão match', () => {
     const array1 = [1,2,7,8,9];

@@ -1,4 +1,4 @@
-import removerItens from './removeByParam';
+const removerItens = require('./removeByParam');
 
 test('Remover itens de uma lista que são passados por parâmetro', () => {
     const dados = [5,4,2,1,3,4,5,3];

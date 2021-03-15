@@ -1,4 +1,4 @@
-export default arrayParaObject(array)  {
+const arrayParaObjeto = array =>  {
     let meuObjeto = {};
     array.forEach(elemento => {
 
@@ -10,3 +10,5 @@ export default arrayParaObject(array)  {
 
     return meuObjeto;
 }
+
+module.exports = arrayParaObjeto;

@@ -1,3 +1,3 @@
-export default serializarArray(array) {
-    return array.flat();
-}
+const serializarArray = array => array.flat();
+
+module.exports = serializarArray;

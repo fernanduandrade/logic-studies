@@ -1,4 +1,4 @@
-import compararArray from './compareArrays';
+const compararArray = require('./compareArrays');
 
 test('Comparar duas listas e retornar true se forem iguais', () => {
     const array1 = [1,1,1,2,3,3,4,4,5,7,6,6];
