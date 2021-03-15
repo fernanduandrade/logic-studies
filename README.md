@@ -6,18 +6,18 @@ Coleção de soluções para exercicios de lógica de programação.
 Exercicios resolvidos em Javascript podem executar os testes pelo JEST basta rodar:
 
 
-<li>
+<li>Para instalar JEST:
 
-	```sh
-		npm install
-	```
+```sh
+npm install
+```
 
 </li>
 
-<li>
+<li>Para rodar os testes:
 
-	```sh
-		npm run test
-	```
+```sh
+npm run test
+```
 	
 </li>
