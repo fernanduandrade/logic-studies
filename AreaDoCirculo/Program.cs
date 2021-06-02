@@ -10,10 +10,10 @@ namespace AreaDoCirculo
             Console.WriteLine("Digite o valor do raio: ");
 
             double raio = double.Parse(Console.ReadLine());
-            double raioAoQuadrado = Math.Pow(raio, 2);
-            double resultado = pi * raioAoQuadrado;
+            double raioQuadrado = Math.Pow(raio, 2);
+            double areaDoCirculo = pi * raioQuadrado;
 
-            Console.WriteLine(resultado);
+            Console.WriteLine($" resultado é igual a {areaDoCirculo:N4}");
 
         }
     }
