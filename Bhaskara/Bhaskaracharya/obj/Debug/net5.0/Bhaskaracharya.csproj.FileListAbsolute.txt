@@ -1,0 +1,16 @@
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/bin/Debug/net5.0/Bhaskaracharya
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/bin/Debug/net5.0/Bhaskaracharya.deps.json
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/bin/Debug/net5.0/Bhaskaracharya.runtimeconfig.json
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/bin/Debug/net5.0/Bhaskaracharya.runtimeconfig.dev.json
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/bin/Debug/net5.0/Bhaskaracharya.dll
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/bin/Debug/net5.0/ref/Bhaskaracharya.dll
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/bin/Debug/net5.0/Bhaskaracharya.pdb
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.csprojAssemblyReference.cache
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.GeneratedMSBuildEditorConfig.editorconfig
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.AssemblyInfoInputs.cache
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.AssemblyInfo.cs
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.csproj.CoreCompileInputs.cache
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.dll
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/ref/Bhaskaracharya.dll
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.pdb
+/home/fernando/Área de Trabalho/logic-studies/Bhaskara/Bhaskaracharya/obj/Debug/net5.0/Bhaskaracharya.genruntimeconfig.cache
