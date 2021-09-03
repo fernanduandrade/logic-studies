@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MaiorValorEmArray/1.0.0": {
+        "runtime": {
+          "MaiorValorEmArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaiorValorEmArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
