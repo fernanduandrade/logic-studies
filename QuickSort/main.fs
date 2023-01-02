@@ -1,7 +1,5 @@
 module QuickSort.Main
 
-
-
 let rec quicksort list =
   match list with
   | [] -> []
